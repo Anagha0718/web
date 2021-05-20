@@ -1,0 +1,20 @@
+.big-banner{
+    background-image: url('D.jpg');
+    background-image: cover;
+}
+.a{
+    word-spacing: 1px;
+    color: white;
+}
+.b{
+   
+ margin-left: 25px;
+ color: white;
+}
+.c{
+margin-left: 240px;
+color: white;
+}
+.font-weight-bold{
+    margin-left: 120px;
+}
